@@ -1,7 +1,7 @@
 {
   "name": "aidoru",
   "title": "Beginning Idol",
-  "description": "The Beginning Idol system for FoundryVTT!",
+  "description": "The Beginning Idol system",
   "version": "1.0.4",
   "minimumCoreVersion": "0.7.5",
   "compatibleCoreVersion": "0.7.9",
