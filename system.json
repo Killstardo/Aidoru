@@ -23,7 +23,7 @@
   "primaryTokenAttribute": "mental",
   "secondaryTokenAttribute": "fame",
   "url": "https://github.com/Killstardo/Aidoru/",
-  "manifest": "https://github.com/Killstardo/Aidoru/releases/latest/download/module.json",
+  "manifest": "https://raw.githubusercontent.com/Killstardo/Aidoru/master/system.json",
   "download": "https://github.com/Killstardo/Aidoru/archive/main.zip",
   "license": "LICENSE.txt"
 }
