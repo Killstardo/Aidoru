@@ -22,8 +22,8 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "mental",
   "secondaryTokenAttribute": "fame",
-  "url": "",
-  "manifest": "https://github.com/Killstardo/yrn/blob/main/system.json",
-  "download": "",
+  "url": "https://github.com/Killstardo/Aidoru/",
+  "manifest": "https://github.com/Killstardo/Aidoru/blob/main/system.json",
+  "download": "https://github.com/Killstardo/Aidoru/archive/master.zip",
   "license": "LICENSE.txt"
 }
