@@ -2,7 +2,7 @@
   "name": "worldbuilding",
   "title": "Simple World-Building",
   "description": "A minimalist game system which provides configurable Actor and Item templates to support free-form system agnostic game-play.",
-  "version": 0.40,
+  "version": 0.41,
   "minimumCoreVersion": "0.6.6",
   "compatibleCoreVersion": "0.7.3",
   "templateVersion": 2,
